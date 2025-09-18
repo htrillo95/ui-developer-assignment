@@ -11,6 +11,7 @@ The app groups points by **customer** and by **month**, and also shows each cust
 
 ## Dataset
 I used a small family example for transactions (Mom, Dad, Sister, Brother) over 3 months to keep the data realistic and easy to follow.
+***The dataset is simulated in (data.js) and used to calculate points shown in the table.***
 
 ## How to Run
 1. Clone this repo  
